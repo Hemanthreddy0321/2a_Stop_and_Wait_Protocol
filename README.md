@@ -1,4 +1,8 @@
 # 2a_Stop_and_Wait_Protocol
+
+Name: HEMANTH A
+Reg.NO: 212223220035
+
 ## AIM 
 To write a python program to perform stop and wait protocol
 ## ALGORITHM
@@ -10,7 +14,7 @@ To write a python program to perform stop and wait protocol
 6. Stop the Program
 ## PROGRAM
 
-Client.py:
+CLIENT :
 ```
 import socket
 s=socket.socket()
@@ -28,7 +32,7 @@ while True:
         c.close()
         break
 ```
-server.py:
+SERVER:
 ```
     import socket
 s=socket.socket()
@@ -40,12 +44,12 @@ while True:
 
 ## OUTPUT
 
-Client :
+CLIENT  :
 
 ![image](https://github.com/Hemanthreddy0321/2a_Stop_and_Wait_Protocol/assets/150005937/24442fbb-2872-4210-b7ab-4e0eaf26e3e6)
 
 
-Server :
+SERVER :
 
 
 ![image](https://github.com/Hemanthreddy0321/2a_Stop_and_Wait_Protocol/assets/150005937/8daa24c7-e23f-417a-b803-574960888f87)
