@@ -46,13 +46,15 @@ while True:
 
 CLIENT  :
 
-![image](https://github.com/Hemanthreddy0321/2a_Stop_and_Wait_Protocol/assets/150005937/24442fbb-2872-4210-b7ab-4e0eaf26e3e6)
+![image](https://github.com/Hemanthreddy0321/2a_Stop_and_Wait_Protocol/assets/150005937/8a26e894-62eb-41ce-8301-bbbb580ae1cb)
+
 
 
 SERVER :
 
 
-![image](https://github.com/Hemanthreddy0321/2a_Stop_and_Wait_Protocol/assets/150005937/8daa24c7-e23f-417a-b803-574960888f87)
+!![image](https://github.com/Hemanthreddy0321/2a_Stop_and_Wait_Protocol/assets/150005937/02a78b4e-71c9-43cf-80c2-f436c2da8acf)
+
 
 
 ## RESULT
